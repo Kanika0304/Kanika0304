@@ -2,10 +2,7 @@
 - 🔭 Currently working on Backend Projects, applying the knowledge gained through learning experiences."
 - 🌱 Learning Java along with all its version and Spring Tool Suite, with a side interest in frontend development.
 - 👯 Open to collaboration on interesting projects—let's build something amazing together!
-- 🤔 Seeking assistance with mastering Java and Spring—looking for guidance from experienced developers.
-- 💬 Feel free to ask me about backend development, Java, or any coding challenges you're facing.
 - 📫 You can reach me via email at kanikasharma1304@gmail.com, or connect with me on LinkedIn for professional discussions.
-- 😄 Pronouns: She/Her.
 - ⚡ Fun fact: Coffee in hand turns coding chaos into a comedy. It's my secret weapon for project wizardry! ☕️✨😄" 
   
 <!--
