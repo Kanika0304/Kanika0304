@@ -3,8 +3,6 @@
 - 🌱 Learning Java along with all its version and Spring Tool Suite, with a side interest in frontend development.
 - 👯 Open to collaboration on interesting projects—let's build something amazing together!
 - 📫 You can reach me via email at kanikasharma1304@gmail.com, or connect with me on LinkedIn for professional discussions.
-- ⚡ Fun fact: Coffee in hand turns coding chaos into a comedy. It's my secret weapon for project wizardry! ☕️✨😄" 
-  
 <!--
 **Kanika0304/Kanika0304** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
