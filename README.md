@@ -1,4 +1,4 @@
-👋 Hii! I'm Kanika Sharma, your coding chameleon with a cheerful disposition.
+👋 Hii! I'm Kanika Sharma,  a sophomore 
 - 🔭 Currently working on  Projects, applying the knowledge gained through learning experiences."
 - 🌱 Learning Java along with all its version and Spring Tool Suite, with a side interest in frontend development.
 - 👯 Open to collaboration on interesting projects—let's build something amazing together!
