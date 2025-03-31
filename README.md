@@ -29,12 +29,13 @@
 <img src="https://img.shields.io/badge/JIRA-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" height="30px">
 </p>
 
-## 🎖️ Badges
-<p>
-  <img src="https://img.shields.io/badge/Hackathon%20Winner-%23FF5733.svg?style=for-the-badge&logo=hackathon&logoColor=white" height="30px">
-  <img src="https://img.shields.io/badge/Open%20Source%20Contributor-%230A66C2.svg?style=for-the-badge&logo=opensourceinitiative&logoColor=white" height="30px">
-  <img src="https://img.shields.io/badge/Code%20for%20Good%202024-%23FFD700.svg?style=for-the-badge&logo=codeforces&logoColor=white" height="30px">
+## 🏅 GitHub Achievements
+<p align="center">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" height="100px" alt="Shark x2" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" height="100px" alt="YOLO" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" height="100px" alt="Cowboy" />
 </p>
+
 
 ## 👥 Connect With Me
 <p>
