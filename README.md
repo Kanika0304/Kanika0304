@@ -1,8 +1,9 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=HHi,+I'm+Kanika+Sharma!+👋&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=4000&color=000000&center=true&vCenter=true&lines=HHHHHi,+I'm+Kanika+Sharma!+👋">
   </a>
 </h1>
+
 
 <p align="center">:round_pushpin: Profile views</p>
 <div align="center">
