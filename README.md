@@ -28,6 +28,7 @@
   </ul>
 </div>
 <br>
+<br>
 <h2 align="center">⚡ Tech Stack ⚡</h2>
 <h3 align="center">Languages</h3>
 <div align="center">
@@ -78,10 +79,7 @@
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Kanika0304&theme=radical&hide_border=true&layout=compact" width="40%" alt="Top Languages" />
 </div>
 <br>
-<h2 align="center">🏆 GitHub Trophies 🏆</h2>
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Kanika0304&theme=discord&no-frame=true&column=7&margin-w=15" alt="Kanika's trophies" />
-</div>
+
 <br>
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kanika0304&theme=radical" width="80%" alt="stats graph" />
