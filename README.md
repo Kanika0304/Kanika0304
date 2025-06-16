@@ -19,7 +19,7 @@
   <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmZiMTJmYjZjOTU2Mjc2YWQzNTU0ZDU5MDI1OWM5OTg4NmFiNmVkNSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/L1R1tvI9svkIWwpVYr/giphy.gif">
   <ul align="left" style="list-style-type: none; padding-left: 20px;">
     <li>🚀 Currently mastering <b>Java Fullstack Development</b></li>
-    <li>🌱 Upcoming <b>SEP Intern</b> at <b>J.P. Morgan Chase & Co.</b></li>
+    <li>🌱<b>SEP Intern</b> at <b>J.P. Morgan Chase & Co.</b></li>
     <li>🏅 <b>Winner</b> of <b>Code for Good 2024</b></li>
     <li>🔍 Passionate about creating innovative software solutions</li>
     <li>✨ Always exploring new technologies and frameworks</li>
