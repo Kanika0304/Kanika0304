@@ -1,17 +1,27 @@
-<!-- Advanced Header Design Option 3 - Transparent Style -->
+<!-- Advanced Header Design Option 4 - Shark Style -->
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=150&text=KANIKA%20SHARMA&fontColor=00F7F7&fontSize=80&fontAlign=50&stroke=8A2BE2&strokeWidth=3&animation=twinkling"/>
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=12"/>
-<h2>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F7F7&center=true&vCenter=true&width=800&lines=SDE+%40+J.P.+Morgan+Chase+%26+Co.;Code+for+Good+2024+Winner+%F0%9F%8F%86;Building+Enterprise+Solutions" alt="Professional Title"/>
-</h2>
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="600">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&height=150&color=0:00F7F7,50:8A2BE2,100:FF1493&text=KANIKA%20SHARMA&fontColor=ffffff&fontSize=70"/>
 <br>
-<img src="https://img.shields.io/badge/Java-Fullstack-00F7F7?style=for-the-badge&logoColor=white&labelColor=1a1a2e"/>
-<img src="https://img.shields.io/badge/Microservices-Architecture-8A2BE2?style=for-the-badge&logoColor=white&labelColor=1a1a2e"/>
-<img src="https://img.shields.io/badge/Cloud-Solutions-00F7F7?style=for-the-badge&logoColor=white&labelColor=1a1a2e"/>
+<table align="center" border="0">
+<tr>
+<td align="center" width="300">
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="80"><br>
+<b>Software Development Engineer</b><br>
+<sub>J.P. Morgan Chase & Co.</sub>
+</td>
+<td align="center" width="300">
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="80"><br>
+<b>Code for Good Winner 🏆</b><br>
+<sub>2024 Champion</sub>
+</td>
+<td align="center" width="300">
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="80"><br>
+<b>Fullstack Architect</b><br>
+<sub>Java • React • Microservices</sub>
+</td>
+</tr>
+</table>
 </div>
-
 ## 🎯 MISSION CONTROL CENTER
 
 <table align="center">
