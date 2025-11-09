@@ -1,63 +1,60 @@
-<!-- Cyberpunk Header with Glitch Effect -->
 <div align="center">
-  
-```ascii
-╔═══════════════════════════════════════════════════════════════╗
-║                                                               ║
-║   ██╗  ██╗ █████╗ ███╗   ██╗██╗██╗  ██╗ █████╗              ║
-║   ██║ ██╔╝██╔══██╗████╗  ██║██║██║ ██╔╝██╔══██╗             ║
-║   █████╔╝ ███████║██╔██╗ ██║██║█████╔╝ ███████║             ║
-║   ██╔═██╗ ██╔══██║██║╚██╗██║██║██╔═██╗ ██╔══██║             ║
-║   ██║  ██╗██║  ██║██║ ╚████║██║██║  ██╗██║  ██║             ║
-║   ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝╚═╝  ╚═╝╚═╝  ╚═╝             ║
-║                                                               ║
-║        🚀 FULLSTACK ENGINEER • CODE ARCHITECT • INNOVATOR     ║
-║                                                               ║
-╚═══════════════════════════════════════════════════════════════╝
-```
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00F7F7&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%3C%2F%3E+Building+the+Future+with+Code;%E2%9A%A1+SDE+%40+J.P.+Morgan+Chase+%26+Co.;%F0%9F%8F%86+Code+for+Good+2024+Champion" alt="Dynamic Typing" />
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=KANIKA%20SHARMA&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" />
+<h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=%F0%9F%92%BB+Fullstack+Engineer+%7C+Code+Architect;%E2%9A%A1+SDE+%40+J.P.+Morgan+Chase+%26+Co.;%F0%9F%8F%86+Code+for+Good+2024+Champion" alt="Typing Animation" />
+</h1>
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Java%20Fullstack-00D9FF?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/Role-Software%20Engineer-00D9FF?style=for-the-badge&logo=code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Status-Building%20The%20Future-00D9FF?style=for-the-badge&logo=rocket&logoColor=white" />
+</p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/kanika-sharma-100401249/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:kanikasharma1304@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/Kanika0304">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Kanika0304&color=00D9FF&style=for-the-badge&label=Visitors" />
+</p>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 </div>
 
----
-
-## 🎯 MISSION CONTROL CENTER
-
-<table align="center">
+🎯 Mission Control Center
+<div align="center">
+<table>
 <tr>
-<td width="50%" valign="top">
-
-### 📡 CURRENT STATUS
-```yaml
-role: Software Development Engineer
-company: J.P. Morgan Chase & Co.
-location: Innovation Hub • Global Tech
-focus: Java Fullstack Architecture
-mission: Building scalable enterprise solutions
-achievement: Code for Good 2024 Winner 🏆
-status: [████████████████░░] 80% - Next Level Loading...
-```
-
+<td width="50%" align="center">
+📡 CURRENT STATUS
+<img src="https://img.shields.io/badge/Role-Software%20Development%20Engineer-00D9FF?style=flat-square&logo=briefcase" /><br>
+<img src="https://img.shields.io/badge/Company-J.P.%20Morgan%20Chase%20%26%20Co.-00D9FF?style=flat-square&logo=jpmorgan" /><br>
+<img src="https://img.shields.io/badge/Location-Innovation%20Hub%20%E2%80%A2%20Global%20Tech-00D9FF?style=flat-square&logo=location" /><br>
+<img src="https://img.shields.io/badge/Focus-Java%20Fullstack%20Architecture-00D9FF?style=flat-square&logo=spring" /><br>
+<img src="https://img.shields.io/badge/Mission-Building%20Scalable%20Solutions-00D9FF?style=flat-square&logo=target" /><br>
+<img src="https://img.shields.io/badge/Achievement-Code%20for%20Good%202024%20Winner%20%F0%9F%8F%86-FFD700?style=flat-square&logo=trophy" /><br><br>
+Progress to Next Level
+<br>
+Show Image
 </td>
-<td width="50%" valign="top">
-
-### 💫 QUICK ACCESS
-```javascript
-const kanika = {
-  code: ["Java", "JavaScript", "Python"],
-  architecture: ["Microservices", "REST APIs", "MVC"],
-  currentFocus: "Distributed Systems",
-  challenge: "Optimizing @ Scale",
-  funFact: "Coffee = Code² × Innovation"
-};
-```
-
+<td width="50%" align="center">
+💫 QUICK ACCESS
+<img src="https://img.shields.io/badge/Code-Java%20%7C%20JavaScript%20%7C%20Python-00D9FF?style=flat-square&logo=code" /><br>
+<img src="https://img.shields.io/badge/Architecture-Microservices%20%7C%20REST%20APIs%20%7C%20MVC-00D9FF?style=flat-square&logo=architecture" /><br>
+<img src="https://img.shields.io/badge/Current%20Focus-Distributed%20Systems-00D9FF?style=flat-square&logo=system" /><br>
+<img src="https://img.shields.io/badge/Challenge-Optimizing%20%40%20Scale-00D9FF?style=flat-square&logo=rocket" /><br>
+<img src="https://img.shields.io/badge/Philosophy-Clean%20Code%20%3E%20Clever%20Code-00D9FF?style=flat-square&logo=book" /><br><br>
+Developer Stats
+<br>
+☕ Coffee Consumed: ∞<br>
+🐛 Bugs Fixed: 999+<br>
+⭐ Solutions Built: 100+<br>
 </td>
 </tr>
 </table>
-
----
+</div>
 
 ## 🛸 TECHNOLOGY MATRIX
 
