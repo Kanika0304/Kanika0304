@@ -1,28 +1,23 @@
-<!-- Advanced Futuristic Header -->
+<!-- Advanced Header Design Option 1 - Cylinder Style -->
 <div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&customColorList=12,14,18,20,24&text=KANIKA%20SHARMA&fontSize=70&fontColor=00F7F7&stroke=00F7F7&strokeWidth=2&animation=fadeIn&fontAlignY=40&descAlignY=60&desc=Software%20Development%20Engineer%20%40%20J.P.%20Morgan%20Chase%20%26%20Co.&descSize=18"/>
-
-<h1>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=45&duration=2000&pause=3000&color=00F7F7&center=true&vCenter=true&width=800&lines=Java+Fullstack+Engineer;Microservices+Architect;Code+for+Good+Champion+%F0%9F%8F%86" alt="Role Typing"/>
-</h1>
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&height=200&color=0:00F7F7,100:8A2BE2&text=KANIKA%20SHARMA&fontColor=ffffff&fontSize=70&fontAlignY=45&stroke=00F7F7&strokeWidth=2&animation=fadeIn"/>
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=35&pause=1000&color=00F7F7&center=true&vCenter=true&width=700&lines=Java+Fullstack+Engineer;Microservices+Architect;Code+for+Good+2024+Champion+%F0%9F%8F%86" alt="Typing Effect"/>
+</h2>
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 <table align="center">
 <tr>
-<td align="center" width="200">
-<img src="https://img.shields.io/badge/SDE-J.P._Morgan-00F7F7?style=for-the-badge&logo=jpmorgan&logoColor=white&labelColor=0A0E27"/>
+<td align="center">
+<img src="https://img.shields.io/badge/SDE-J.P._Morgan_Chase-00F7F7?style=for-the-badge&logoColor=white&labelColor=1a1a2e"/>
 </td>
-<td align="center" width="200">
-<img src="https://img.shields.io/badge/Winner-Code_For_Good_2024-gold?style=for-the-badge&logo=trophy&logoColor=white&labelColor=0A0E27"/>
+<td align="center">
+<img src="https://img.shields.io/badge/Winner-Code_For_Good_2024-FFD700?style=for-the-badge&logoColor=white&labelColor=1a1a2e"/>
 </td>
-<td align="center" width="200">
-<img src="https://img.shields.io/badge/Focus-Scalable_Systems-00F7F7?style=for-the-badge&logo=serverless&logoColor=white&labelColor=0A0E27"/>
+<td align="center">
+<img src="https://img.shields.io/badge/Mission-Scalable_Solutions-8A2BE2?style=for-the-badge&logoColor=white&labelColor=1a1a2e"/>
 </td>
 </tr>
 </table>
-
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600">
-
 </div>
 
 
