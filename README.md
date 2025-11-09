@@ -1,38 +1,63 @@
+<!-- Cyberpunk Header with Glitch Effect -->
 <div align="center">
-👋 Welcome to My Digital Universe
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&duration=3000&pause=1000&color=FF6EC7&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=120&lines=Hi%2C+I'm+Kanika+Sharma+%F0%9F%91%8B;Fullstack+Developer+%7C+Problem+Solver;Building+Scalable+Solutions+%F0%9F%9A%80;Code+for+Good+2024+Winner+%F0%9F%8F%86" alt="Typing Animation" />
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-Show Image
-Show Image
-Show Image
-Show Image
+  
+```ascii
+╔═══════════════════════════════════════════════════════════════╗
+║                                                               ║
+║   ██╗  ██╗ █████╗ ███╗   ██╗██╗██╗  ██╗ █████╗              ║
+║   ██║ ██╔╝██╔══██╗████╗  ██║██║██║ ██╔╝██╔══██╗             ║
+║   █████╔╝ ███████║██╔██╗ ██║██║█████╔╝ ███████║             ║
+║   ██╔═██╗ ██╔══██║██║╚██╗██║██║██╔═██╗ ██╔══██║             ║
+║   ██║  ██╗██║  ██║██║ ╚████║██║██║  ██╗██║  ██║             ║
+║   ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝╚═╝  ╚═╝╚═╝  ╚═╝             ║
+║                                                               ║
+║        🚀 FULLSTACK ENGINEER • CODE ARCHITECT • INNOVATOR     ║
+║                                                               ║
+╚═══════════════════════════════════════════════════════════════╝
+```
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00F7F7&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%3C%2F%3E+Building+the+Future+with+Code;%E2%9A%A1+SDE+%40+J.P.+Morgan+Chase+%26+Co.;%F0%9F%8F%86+Code+for+Good+2024+Champion" alt="Dynamic Typing" />
+
 </div>
 
-🎯 MISSION CONTROL CENTER
+---
+
+## 🎯 MISSION CONTROL CENTER
+
 <table align="center">
 <tr>
 <td width="50%" valign="top">
-📡 CURRENT STATUS
-<div align="center">
-🎯 Role: Software Development Engineer
-🏢 Company: J.P. Morgan Chase & Co.
-📍 Location: Innovation Hub • Global Tech
-💼 Focus: Java Fullstack Architecture
-🚀 Mission: Building scalable enterprise solutions
-🏆 Achievement: Code for Good 2024 Winner
 
-⚡ Progress Status
-████████████████░░░░ 80% - Next Level Loading...
-</div>
+### 📡 CURRENT STATUS
+```yaml
+role: Software Development Engineer
+company: J.P. Morgan Chase & Co.
+location: Innovation Hub • Global Tech
+focus: Java Fullstack Architecture
+mission: Building scalable enterprise solutions
+achievement: Code for Good 2024 Winner 🏆
+status: [████████████████░░] 80% - Next Level Loading...
+```
+
 </td>
 <td width="50%" valign="top">
-💫 QUICK ACCESS
-<div align="center">
-💻 Code Languages
-Java • JavaScript • Python
-🏗️ Architecture
-Microservices • REST APIs • MVC
-**
+
+### 💫 QUICK ACCESS
+```javascript
+const kanika = {
+  code: ["Java", "JavaScript", "Python"],
+  architecture: ["Microservices", "REST APIs", "MVC"],
+  currentFocus: "Distributed Systems",
+  challenge: "Optimizing @ Scale",
+  funFact: "Coffee = Code² × Innovation"
+};
+```
+
+</td>
+</tr>
+</table>
+
+---
 
 ## 🛸 TECHNOLOGY MATRIX
 
@@ -61,11 +86,6 @@ Microservices • REST APIs • MVC
 <img src="https://skillicons.dev/icons?i=js" width="65" />
 <br><strong>JavaScript</strong>
 <br><sub>Advanced</sub>
-</td>
-<td align="center" width="150">
-<img src="https://skillicons.dev/icons?i=python" width="65" />
-<br><strong>Python</strong>
-<br><sub>Intermediate</sub>
 </td>
 </tr>
 </table>
@@ -130,16 +150,6 @@ mindmap
 </div>
 
 ---
-
-## 🏆 ACHIEVEMENT VAULT
-
-<div align="center">
-
-| 🎖️ Recognition | 📅 Date | 🌟 Impact |
-|:---:|:---:|:---:|
-| **Code for Good Winner** | 2024 | Led team to build social impact solution |
-| **SDE @ JPMorgan** | Current | Building enterprise-grade systems |
-| **Fullstack Certification** | 2024 | Advanced Java & React specialization |
 
 <img src="https://github-profile-trophy.vercel.app/?username=Kanika0304&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" />
 
@@ -209,12 +219,6 @@ class Developer:
 me = Developer()
 me.say_hi()
 ```
-
-### 🎵 Currently Coding To
-
-[![Spotify](https://novatorem-kanika0304.vercel.app/api/spotify)](https://open.spotify.com/user/kanika0304)
-
-</div>
 
 ---
 
