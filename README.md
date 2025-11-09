@@ -1,8 +1,6 @@
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=KANIKA%20SHARMA&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Fullstack%20Engineer%20•%20Code%20Architect%20•%20Innovator&descAlignY=55&descSize=20" width="100%"/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00F7F7&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%3C%2F%3E+Building+the+Future+with+Code;%E2%9A%A1+SDE+%40+J.P.+Morgan+Chase+%26+Co.;%F0%9F%8F%86+Code+for+Good+2024+Champion" alt="Dynamic Typing" />
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
----
+
+<!-- Modern Header Design --> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=KANIKA%20SHARMA&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Fullstack%20Engineer%20•%20Code%20Architect%20•%20Innovator&descAlignY=55&descSize=20" width="100%"/> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00F7F7&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%3C%2F%3E+Building+the+Future+with+Code;%E2%9A%A1+SDE+%40+J.P.+Morgan+Chase+%26+Co.;%F0%9F%8F%86+Code+for+Good+2024+Champion" alt="Dynamic Typing" /> </div>
+
 
 ## 🎯 MISSION CONTROL CENTER
 
