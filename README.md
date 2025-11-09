@@ -1,12 +1,16 @@
-<!-- Advanced Header Design Option 2 - Slice Style -->
+<!-- Advanced Header Design Option 3 - Transparent Style -->
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&height=200&color=gradient&customColorList=12&text=KANIKA%20SHARMA&fontColor=00F7F7&fontSize=80&fontAlign=70&fontAlignY=30&rotate=13&stroke=FFFFFF&strokeWidth=1"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=150&text=KANIKA%20SHARMA&fontColor=00F7F7&fontSize=80&fontAlign=50&stroke=8A2BE2&strokeWidth=3&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=12"/>
 <h2>
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=30&pause=1000&color=00F7F7&center=true&vCenter=true&width=600&lines=Fullstack+Developer;Problem+Solver;Innovation+Enthusiast" alt="Typing"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F7F7&center=true&vCenter=true&width=800&lines=SDE+%40+J.P.+Morgan+Chase+%26+Co.;Code+for+Good+2024+Winner+%F0%9F%8F%86;Building+Enterprise+Solutions" alt="Professional Title"/>
 </h2>
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="500">
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="600">
+<br>
+<img src="https://img.shields.io/badge/Java-Fullstack-00F7F7?style=for-the-badge&logoColor=white&labelColor=1a1a2e"/>
+<img src="https://img.shields.io/badge/Microservices-Architecture-8A2BE2?style=for-the-badge&logoColor=white&labelColor=1a1a2e"/>
+<img src="https://img.shields.io/badge/Cloud-Solutions-00F7F7?style=for-the-badge&logoColor=white&labelColor=1a1a2e"/>
 </div>
-
 
 ## 🎯 MISSION CONTROL CENTER
 
